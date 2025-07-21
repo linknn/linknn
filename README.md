@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[www.linkedin.com/in/crys-nelson-91b62636b](https://www.linkedin.com/in/crys-nelson-91b62636b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B4XZgjYJyS5G3TjbVPqPpog%3D%3D)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/crys-nelson-91b62636b/" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/crys-nelson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/crys-nelson" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
